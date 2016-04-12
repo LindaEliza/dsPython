@@ -13,3 +13,6 @@
 * LinkedIn: Linda Morales
 
 ## Estudios
+
+Año | Lugar
+--- | -----
