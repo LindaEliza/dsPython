@@ -12,7 +12,7 @@
 * Facebook: Linda Elizabeth
 * LinkedIn: Linda Morales
 
-## Estudios
+## Estudios :blue_book:
 
 Año | Lugar
 --- | -----
@@ -22,3 +22,12 @@ Año | Lugar
 2010 | INEB
 2013 | ITC
 2015 | UFM
+
+## Comida favorita :cake:
+1. Lasagna
+2. Tortillas de harina
+3. Tacos
+4. Pasteles
+
+
+
